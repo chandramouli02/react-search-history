@@ -1,0 +1,35 @@
+.history-item-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 5px;
+  margin: 10px;
+  text-align: left;
+}
+
+.time-accessed {
+  width: 10%;
+}
+
+.logo {
+  margin-left: 10%;
+  display: flex;
+  align-self: center;
+  width: 30px;
+}
+
+.logo:hover {
+  width: 35px;
+}
+
+.title {
+  margin-left: 10%;
+  width: 100%;
+}
+
+.domain {
+  color: #475569;
+  font-size: 15px;
+  font-weight: 400;
+  margin-left: 5px;
+}
